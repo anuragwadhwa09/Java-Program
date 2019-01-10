@@ -1,6 +1,5 @@
 import java.util.Scanner;
-public class Quadratic_Equation
-{
+class program1{
     public static void main(String[] args) 
       {
         int a, b, c;
