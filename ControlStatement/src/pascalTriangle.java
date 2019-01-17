@@ -30,7 +30,7 @@ class pascalTriangle{
 			System.out.println();
 		}
 			System.out.print("Press N to EXIT else any key to continue :");
-	        ch = input.next().charAt(0);
+	        ch = scn.next().charAt(0);
 	        if ((ch == 'N') || (ch == 'n'))
 	        {
 	        	break;
